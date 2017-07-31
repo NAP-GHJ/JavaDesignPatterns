@@ -1,3 +1,3 @@
 ## Design Patterns in Java Tutorial
 
-* [SingletonObject Pattern](#SingletonObject)
+* [SingletonObject Pattern](documents/SingletonObject.md)
